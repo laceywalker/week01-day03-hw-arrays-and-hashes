@@ -24,10 +24,10 @@ stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Ha
 # # 8. How many ways can we return `"Falkirk High"` from the array?
         stops[2]
         stops.fetch(2)
-          stops.at(2)
+        stops.at(2)
 # #
 # # 9. Reverse the positions of the stops in the array
-#          stops.reverse
+         stops.reverse
 # #
 # # 10. Print out all the stops using a for loop
       for stop in stops
